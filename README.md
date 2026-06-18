@@ -5,7 +5,7 @@
 
 This repository operationalizes the **Reflexive Ethics Protocol for AI Research** introduced in our paper: *[Delfina S. Martinez Pandiani, Ella Streefkerk, Laurens Naudts, and Paula Helm. 2026. From Vulnerable Data Subjects to Vulnerabilizing Data Practices: Navigating the Protection Paradox in AI-Based Analyses of Platformized Lives. In The 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’26), June 25–28, 2026, Montreal, QC, Canada. ACM, New York, NY, USA, 23 pages. https://doi.org/10.1145/3805689.3806735]* ([arXiv:2604.15990](https://arxiv.org/abs/2604.15990)). 
 
-Unlike rigid compliance checklists, this framework provides a structural, reflexive journey across four core lifecycle stages of AI research to help researchers audit power dynamics, mitigate data subject vulnerabilities, and navigate systemic tensions.
+Unlike rigid compliance checklists, this framework provides a structural, reflexive journey across four core lifecycle stages of AI research to help researchers audit power dynamics present in technical choices, navigate systemic ethical tensions, and mitigate the precarization of data subject vulnerabilities.
 
 ## 📌 Repository Structure
 
